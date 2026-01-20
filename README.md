@@ -8,6 +8,6 @@ Je suis actuellement étudiant en Master 1 Intelligence Artificielle à l'Univer
   Logique : Programmation par contraintes.
 
 ## Langages et Outils
-  Langages : Python, Java, C, SQL, R, Scala.
+  Langages : Python, Java, C, SQL, R, Scala.\n
   Environnement : Linux, Windows, VS Code, Git.
   Frameworks : Spring Boot, PyTorch.
