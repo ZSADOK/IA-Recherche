@@ -1,13 +1,24 @@
-# IA-Recherche
-Je suis actuellement étudiant en Master 1 Intelligence Artificielle à l'Université de Rennes. Passionné par le développement et la résolution de problèmes complexes, j'utilise GitHub pour documenter ma progression et partager mes projets académiques et personnels.
+# IA-Recherche (Zakary Sadok)
+[cite_start]Je suis actuellement étudiant en **Master 1 Intelligence Artificielle** à l'Université de Rennes[cite: 34, 35]. [cite_start]Passionné par le développement et la résolution de problèmes complexes, j'utilise GitHub pour documenter ma progression et partager mes projets académiques et personnels[cite: 10].
 
-## Domaines d'études
-  Machine Learning & Deep Learning : Mise en œuvre de modèles avec PyTorch.
-  Algorithmique pour l'IA : Exploration d'espaces et planification.
-  Analyse de données : Statistiques, réduction de dimension et clustering sous R et Python.
-  Logique : Programmation par contraintes.
+---
 
-## Langages et Outils
-  Langages : Python, Java, C, SQL, R, Scala.\n
-  Environnement : Linux, Windows, VS Code, Git.
-  Frameworks : Spring Boot, PyTorch.
+### Domaines d'études (Master 1 IA)
+* [cite_start]**Machine Learning & Deep Learning :** Mise en œuvre de modèles et utilisation de PyTorch[cite: 30, 32].
+* [cite_start]**Algorithmique pour l'IA :** Exploration d'espaces de recherche (A*, MinMax, MCTS) et planification[cite: 40].
+* [cite_start]**Analyse de données :** Statistiques, réduction de dimension (ACP), clustering et analyse inférentielle sous R et Python[cite: 44].
+* [cite_start]**Logique :** Programmation par contraintes (Prolog, ASP, Choco) et représentation logique[cite: 42].
+
+### Langages et Outils
+* [cite_start]**Langages :** Python, Java, C, SQL, R, Scala, Idris2[cite: 32].
+* [cite_start]**Environnement :** Linux, Windows, VS Code, Git[cite: 29, 30].
+* [cite_start]**Frameworks & Libs :** Spring Boot, PyTorch[cite: 14, 30].
+
+### Objectif
+[cite_start]Je suis actuellement à la recherche d'un **stage en Intelligence Artificielle** pour l'été 2026 afin de mettre mes compétences au service de projets innovants[cite: 9].
+
+---
+
+### Me contacter
+* **LinkedIn :** https://www.linkedin.com/in/zakary-sadok-78784b358/
+* [cite_start]**Email :** zakary_sad@outlook.fr 
