@@ -1,4 +1,4 @@
-# IA-Recherche (Zakary Sadok)
+# IA-Recherche 
 Je suis actuellement étudiant en **Master 1 Intelligence Artificielle** à l'Université de Rennes. Passionné par le développement et la résolution de problèmes complexes, j'utilise GitHub pour documenter ma progression et partager mes projets académiques et personnels.
 
 ---
@@ -21,4 +21,20 @@ Je suis actuellement à la recherche d'un **stage en Intelligence Artificielle**
 
 ### Me contacter
 * **LinkedIn :** https://www.linkedin.com/in/zakary-sadok-78784b358/
-* **Email :** zakary_sad@outlook.fr 
+* **Email :** zakary_sad@outlook.fr
+* 
+ ________        __       __   ___       __        _______   ___  ___ 
+("      "\      /""\     |/"| /  ")     /""\      /"      \ |"  \/"  |
+ \___/   :)    /    \    (: |/   /     /    \    |:        | \   \  / 
+   /  ___/    /' /\  \   |    __/     /' /\  \   |_____/   )  \\  \/  
+  //  \__    //  __'  \  (// _  \    //  __'  \   //      /   /   /   
+ (:   / "\  /   /  \\  \ |: | \  \  /   /  \\  \ |:  __   \  /   /    
+  \_______)(___/    \___)(__|  \__)(___/    \___)|__|  \___)|___/     
+                                                                      
+  ________     __       ________      ______    __   ___              
+ /"       )   /""\     |"      "\    /    " \  |/"| /  ")             
+(:   \___/   /    \    (.  ___  :)  // ____  \ (: |/   /              
+ \___  \    /' /\  \   |: \   ) || /  /    ) :)|    __/               
+  __/  \\  //  __'  \  (| (___\ ||(: (____/ // (// _  \               
+ /" \   :)/   /  \\  \ |:       :) \        /  |: | \  \              
+(_______/(___/    \___)(________/   \"_____/   (__|  \__)                      
