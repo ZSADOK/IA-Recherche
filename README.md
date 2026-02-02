@@ -12,9 +12,6 @@
 * **Environnement :** Linux, Windows, VS Code, Git.
 * **Frameworks & Libs :** Spring Boot, PyTorch.
 
-### Objectif
-Je suis actuellement à la recherche d'un **stage en Intelligence Artificielle** pour l'été 2026 afin de mettre mes compétences au service de projets innovants.
-
 ---
 
 ### Me contacter
