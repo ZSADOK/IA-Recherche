@@ -1,6 +1,4 @@
 # IA-Recherche 
-Je suis actuellement étudiant en **Master 1 Intelligence Artificielle** à l'Université de Rennes. Passionné par le développement et la résolution de problèmes complexes, j'utilise GitHub pour documenter ma progression et partager mes projets académiques et personnels.
-
 ---
 
 ### Domaines d'études (Master 1 IA)
