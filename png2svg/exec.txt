@@ -1,0 +1,2 @@
+python3 png2svg.py --algo greedy --shape rectangle --n 215 --time 300 \
+  --input images/nuit.jpg --output out.svg --seed 42
